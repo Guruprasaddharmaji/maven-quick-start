@@ -7,6 +7,7 @@ import org.apache.commons.lang3.*;
 public class Application {
     /*
      * Maven Training
+     * Added additional comments
      */
     public Application() {
         System.out.println ("Inside Application");
